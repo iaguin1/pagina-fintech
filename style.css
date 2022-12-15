@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(200, 235, 241);
+}
+.container-xxl {
+    background-color: #3A90E0;
+  }
+  
+  .row {
+    align-items: center;
+    height: 4.5rem;
+  }
+  .tres {
+    background-color: rgb(200, 235, 241);
+    height: 25rem;
+  }
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.btn {
+    border: .13rem solid black;
+    background-color: #3A90E0;
+    height: 5rem;
+    width: 5rem;
+    font-size: xx-large;
+}
+.btn:hover {
+    border: .13rem solid black;
+    background-color: #3A90E0;
+    height: 5rem;
+    width: 5rem;
+    font-size: xx-large;
+}
+.btn:enabled {
+    border: .13rem solid black;
+    background-color: #3A90E0;
+    height: 5rem;
+    width: 5rem;
+    font-size: xx-large;
+}

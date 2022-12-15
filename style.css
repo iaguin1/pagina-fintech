@@ -38,3 +38,7 @@ img {
     width: 5rem;
     font-size: xx-large;
 }
+p {
+    color: #E0A13A;
+    -webkit-text-stroke: 1px black;
+}

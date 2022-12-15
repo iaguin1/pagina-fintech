@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(200, 235, 241);
+}
+.row {
+    height: 10rem;
+}
+.col-4 {
+    max-width: 100% ;
+    max-height: fit-content;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  .container {
+    margin-top: 5%;
+  }
+  input[type=text], select {
+    background-color: #E0A13A;
+    width: 75%;
+    padding: 12px 20px;
+    margin: 5% 0;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  input::placeholder {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    opacity: 1;
+    justify-items: center;
+    color: black;
+  }
+  input[type=submit], select {
+    background-color: #E0A13A;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 30% 0;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  input::value {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    opacity: 1;
+    justify-items: center;
+    color: black;
+  }
+  form {
+    margin-top: 20%;
+  }
+  h1 {
+    font-weight: bold;
+    color: #E0A13A;
+    font-size: 2.5rem;
+    -webkit-text-stroke: 1px black;
+  }
